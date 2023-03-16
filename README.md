@@ -34,7 +34,7 @@
 
 <> pkg install git
 
-<> rm -rf RANDOM
+<> rm -rf OLD-4
 
 <> git clone https://github.com/DARK-ALHAJ-404/OLD-4.git
 
